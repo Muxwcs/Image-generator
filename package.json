@@ -1,15 +1,15 @@
 {
-  "name": "Dall-eLike",
+  "name": "GRX Image Generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple example of OpenAI API use",
   "main": "index.js",
   "scripts": {
     "start": "node index",
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Guillaume Ribéroux | GRX-digital",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
